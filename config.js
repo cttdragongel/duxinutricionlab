@@ -8,7 +8,7 @@ const pix = {
 
 // config do produto
 const produto = {
-    imagem: "https://prnt.sc/MCpnnakIEqbH",
+    imagem: "https://img001.prntscr.com/file/img001/95N5sZ7hQ_K2iloG6nMVDw.jpg",
     nome: "PAGUE 1 LEVE 3 - Kit 2 Whey Protein 1Kg + Creatina 250g [ Ultimas unidades ]",
     preco: {
         original: "290,45",
