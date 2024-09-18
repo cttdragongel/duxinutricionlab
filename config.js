@@ -8,8 +8,8 @@ const pix = {
 
 // config do produto
 const produto = {
-    imagem: "https://lojamaxtitanium.vtexassets.com/arquivos/ids/157936-1600-1600",
-    nome: "Pague 1 e leve 3 creatina MaxTitanium 3000g- Promoçao dia das crianças",
+    imagem: "https://prnt.sc/MCpnnakIEqbH",
+    nome: "PAGUE 1 LEVE 3 - Kit 2 Whey Protein 1Kg + Creatina 250g [ Ultimas unidades ]",
     preco: {
         original: "290,45",
         desconto: "97,90"
